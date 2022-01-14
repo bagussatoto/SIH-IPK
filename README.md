@@ -1,6 +1,6 @@
 
 ## Sistem Informasi Hitung IPK sederhana
-**SIH-IPK** Meruapakan sistem informasi hitung ipk sederhana dengan mencakup manajeman mahasiswa dan mata kuliah. Lalu, dengan data yang sudah ada diharapkan bisa menghitung ipk yang didapatkan dari inputan.
+**SIH-IPK** Merupakan sistem informasi hitung ipk sederhana dengan mencakup manajeman mahasiswa dan mata kuliah. Lalu, dengan data yang sudah ada diharapkan bisa menghitung ipk yang didapatkan dari inputan.
 
 ## Pembuat Aplikasi
   - **Bagus Budi Satoto** ,merupakan Sofware Enggineering dan Mobile 
