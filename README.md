@@ -2,6 +2,12 @@
 ## Sistem Informasi Hitung IPK sederhana
 **SIH-IPK** Meruapakan sistem informasi hitung ipk sederhana dengan mencakup manajeman mahasiswa dan mata kuliah. Lalu, dengan data yang sudah ada diharapkan bisa menghitung ipk yang didapatkan dari inputan.
 
+## Pembuat Aplikasi
+  - **Bagus Budi Satoto** ,merupakan Sofware Enggineering dan Mobile 
+  - Program Study S1 Informatika
+  - Falkultas Ilmu Komputer
+  - Universitas Amikom Yogyakarta
+
 ## Fitur - Fitur Program Hitung IPK
 - Menghitung IPK mahasiswa
 - Mengecek IPK mahasiswa
@@ -37,13 +43,16 @@
 
 ## Cara Cloning Program
 
-``````bash
-git clone 
+```bash
+    git clone https://github.com/bagussatoto/SIH-IPK.git 
+```
 
 ## Request Fitur Baru dan Pelaporan Bug
 
-Anda dapat meminta fitur baru maupun bagmelaporkan bug melalui menu **issues** yang sudah disediakan oleh GitHub (lihat menu di atas), posting issues baru dan kita akan berdiskusi disana.
+Anda dapat meminta fitur baru maupun bagmelaporkan bug melalui menu **issues** yang sudah disediakan oleh GitHub 
+(lihat menu di atas), posting issues baru dan kita akan berdiskusi disana.
 
 ## Berkontribusi
 
-Siapapun dapat berkontribusi pada proyek ini mulai dari pemrograman, pembuakan buku manual, sampai dengan mengenalkan produk ini kepada Mahasiswa Untuk belajar agar mengurangi kesenjangan pendidikan teknologi dengan cara membuat postingan issue di repository ini.
+Siapapun dapat berkontribusi pada proyek ini mulai dari pemrograman, pembuakan buku manual, sampai dengan mengenalkan produk ini kepada Mahasiswa 
+Untuk belajar agar mengurangi kesenjangan pendidikan teknologi dengan cara membuat postingan issue di repository ini.
